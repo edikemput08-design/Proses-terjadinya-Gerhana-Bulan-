@@ -1,0 +1,8 @@
+{
+  "name": "Remix Proses Terjadinya Gerhana Bulan",
+  "description": "Aplikasi pembelajaran IPA dan Bahasa Indonesia interaktif tentang proses terjadinya gerhana bulan untuk siswa kelas VI SD.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
